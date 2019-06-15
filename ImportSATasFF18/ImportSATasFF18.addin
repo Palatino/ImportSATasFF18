@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>ImportSATasFF18</Name>
+    <Assembly>ImportSATasFF18.dll</Assembly>
+    <AddInId>A5393636-2A91-47E2-8512-4DCFB513FDCA</AddInId>
+    <FullClassName>ImportSATasFF18.ImportSATasFF18</FullClassName>
+    <Text>Import SAT as FF</Text>
+    <Description>Import SAT file as free form geometry</Description>
+    <VendorId>PAlv</VendorId>
+    <VendorDescription>Pablo Alvarez</VendorDescription>
+    <VisibilityMode>NotVisibleInProject</VisibilityMode>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+</RevitAddIns>
